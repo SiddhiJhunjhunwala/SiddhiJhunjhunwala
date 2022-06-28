@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/siddhi-jhunjhunwala"> <img src="https://img.shields.io/badge/-siddhi--jhunjhunwala-blue?logo=linkedin" alt="siddhijhunjhunwala" /> </a>
   <a href="mailto:siddhi2000jhun@gmail.com"> <img src="https://img.shields.io/badge/-siddhi2000jhun%40gmail.com-red?logo=gmail&logoColor=white" alt="siddhijhunjhunwala" />  </a> 
-  <a href="https://instagram.com/siddhi_jhunjhunwala_1307"><img src="https://img.shields.io/badge/-siddhi__jhunjhunwala__1307-4f58ca?logo=instagram&logoColor=white"             alt="siddhijhunjhunwala" />  </a>
+ 
    <img src="https://komarev.com/ghpvc/?username=siddhijhunjhunwala&label=Profile%20views&color=0e75b6&style=flat" alt="siddhijhunjhunwala" />  
 </p>
 
