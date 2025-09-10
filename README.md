@@ -1,11 +1,14 @@
 <h1 align="center">Hey, I'm Siddhi! 👋</h1>
 <h4 align="center">Masters in Conputer Science student at UIUC | Developer | Programmer | Learner | Problem Solver</h4>
 
-<p align="center">
-  <a href="https://linkedin.com/in/siddhi-jhunjhunwala"> <img src="https://img.shields.io/badge/-siddhi--jhunjhunwala-blue?logo=linkedin" alt="siddhijhunjhunwala" /> </a>
-  <a href="mailto:siddhij2@illinois.edu"> <img src="https://img.shields.io/badge/-siddhij2%4illinois.edu-red?logo=gmail&logoColor=white" alt="siddhijhunjhunwala" />  </a> 
- 
-   <img src="https://komarev.com/ghpvc/?username=siddhijhunjhunwala&label=Profile%20views&color=0e75b6&style=flat" alt="siddhijhunjhunwala" />  
+<p>
+  <a href="https://linkedin.com/in/siddhi-jhunjhunwala">
+    <img src="https://img.shields.io/badge/-siddhi--jhunjhunwala-blue?logo=linkedin" alt="siddhijhunjhunwala" />
+  </a>
+  <a href="mailto:siddhij2@illinois.edu">
+    <img src="https://img.shields.io/badge/-siddhij2%40illinois.edu-red?logo=gmail&logoColor=white" alt="siddhijhunjhunwala" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=siddhijhunjhunwala&label=Profile%20views&color=0e75b6&style=flat" alt="siddhijhunjhunwala" />
 </p>
 
 I’m Siddhi Jhunjhunwala, a Master of Computer Science student at the University of Illinois Urbana-Champaign (UIUC) with prior industry experience at ARM and NetApp. I’m passionate about designing and developing scalable, user-friendly applications, and I thrive on solving challenging technical problems.
