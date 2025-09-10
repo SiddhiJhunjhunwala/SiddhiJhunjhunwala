@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Siddhi! 👋</h1>
 <h4 align="center">Masters in Conputer Science student at UIUC | Developer | Programmer | Learner | Problem Solver</h4>
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/siddhi-jhunjhunwala">
     <img src="https://img.shields.io/badge/-siddhi--jhunjhunwala-blue?logo=linkedin" alt="siddhijhunjhunwala" />
   </a>
