@@ -8,6 +8,21 @@
    <img src="https://komarev.com/ghpvc/?username=siddhijhunjhunwala&label=Profile%20views&color=0e75b6&style=flat" alt="siddhijhunjhunwala" />  
 </p>
 
+I’m Siddhi Jhunjhunwala, a Master of Computer Science student at the University of Illinois Urbana-Champaign (UIUC) with prior industry experience at ARM and NetApp. I’m passionate about designing and developing scalable, user-friendly applications, and I thrive on solving challenging technical problems.
+
+I hold a B.Tech in Computer Engineering from Dwarkadas J. Sanghvi College of Engineering (CGPA 9.65/10) where I built strong foundations in data structures, algorithms, and system design. I also actively participated in hackathons and coding contests, sharpening my problem-solving and collaboration skills.
+
+💻 Industry Experience
+
+At ARM, I gained experience working on software engineering projects in a fast-paced environment, contributing to automation, testing, and system reliability.
+
+At NetApp, I worked on projects focused on storage technologies and software tools, learning how to build solutions that are robust and performance-oriented.
+
+🌟 What drives me
+I enjoy building impactful applications, collaborating across teams, and exploring new technologies. My goal is to apply my skills to real-world challenges in software development and systems engineering.
+
+📬 Always open to connecting! Reach out at siddhij2@illinois.edu
+
 - 🔭 I’m currently working on my **competitive programming skills**
 - 🌱 I’m currently learning **GraphQL**
 - 🤝 Open to collaboration
